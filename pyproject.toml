@@ -1,0 +1,9 @@
+[project]
+name = "get-meeting-notes"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "markitdown>=0.1.9",
+]
